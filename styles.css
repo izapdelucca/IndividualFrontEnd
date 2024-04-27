@@ -279,6 +279,11 @@ form {
   text-shadow: 0px 0px 2px var(--secondary-color);
 }
 
+button:hover {
+  background-color: var(--tertiary-color);
+  font-weight: bold;
+}
+
 #subscribe {
   width: 30rem;
   height: 3rem;
@@ -289,11 +294,6 @@ form {
   background-color: var(--secondary-color);
   color: var(--txtcolor);
   text-shadow: 0px 0px 3px var(--txtshadow);
-}
-
-button:hover {
-  background-color: var(--secondary-color);
-  font-weight: bold;
 }
 
 .rodape {
