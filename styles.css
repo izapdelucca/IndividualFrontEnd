@@ -312,6 +312,7 @@ button {
   margin-top: 2rem;
   margin-right: 3rem;
   padding-bottom: 1rem;
+  cursor: pointer;
 }
 
 .rodape_frases {
