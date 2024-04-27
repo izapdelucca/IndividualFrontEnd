@@ -55,6 +55,7 @@
 .container_lista li {
   /*dentro dessa container_lista eu quero a lista*/
   list-style-type: none; /*tira os pontos da lista*/
+  cursor: pointer;
 }
 
 .container_lista li:hover {
