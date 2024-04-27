@@ -284,7 +284,7 @@ button:hover {
   font-weight: bold;
 }
 
-#subscribe {
+button {
   width: 30rem;
   height: 3rem;
   font-size: 1.5rem;
