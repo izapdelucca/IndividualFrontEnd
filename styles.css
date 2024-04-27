@@ -131,6 +131,7 @@
   box-shadow: rgba(211, 137, 221, 0.2) 0px 2px 8px 0px;
   border-style: solid;
   border-color: var(--tertiary-color);
+  cursor: pointer;
 }
 
 .card a {
