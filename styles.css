@@ -294,6 +294,7 @@ button {
   background-color: var(--secondary-color);
   color: var(--txtcolor);
   text-shadow: 0px 0px 3px var(--txtshadow);
+  cursor: pointer;
 }
 
 .rodape {
